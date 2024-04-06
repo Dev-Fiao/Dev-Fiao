@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev-Fiao 😁
+## Bem-vindo(a) ao perfil do Dev-Fiao 😎
 
  <div>
    <a href="https://github.com/Dev-Fiao">
